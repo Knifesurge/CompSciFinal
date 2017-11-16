@@ -1,3 +1,6 @@
+# UPDATE
+Moved to Hjalmion Labs repo at https://github.com/Hjalmion-Labs/SandboxGame
+
 # Computer Science Final
 My Final for Computer Science.
 Looking to be a top-down 2D Factory Game or Sandbox game.
